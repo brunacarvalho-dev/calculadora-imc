@@ -15,5 +15,5 @@ Calculadora de IMC desenvolvida com HTML, CSS e JavaScript.
   <img src="preview.png.png" width="300">
 </p>
 
-🔗 Acesse:  
+🔗 Acesse 
  https://brunacarvalho-dev.github.io/calculadora-imc/
